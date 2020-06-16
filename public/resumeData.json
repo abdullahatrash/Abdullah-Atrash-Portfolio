@@ -1,50 +1,50 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Abdullah Atrash",
+    "occupation":"(Digital Project Manager)",
+    "description":"From a small town on the Mediterranean coast, I came to this world to express myself and share my dreams with the world and change it",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Lead projects from requirements definition through deployment, identifying schedules, scopes, sprints and project implementation plans, including risk mitigation.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "abdullah.atrash@edu.esiee.fr",
+    "phone": "+33-0783209930",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"3 avenue Ampere",
+      "city":"Paris-France",
+      "state":"Champs-Sur-Marne",
+      "zip": "77420"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.abdullahatrash.com",
+    "resumedownload":"https://drive.google.com/file/d/1EApf5iKgd8kVKManXebnY0p3wQfVxa-I/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/abodi.atrash",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/abodi1987",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com/",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/abdullah-atrash/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/abodiatrash87/?hl=en",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/abdullahatrash?tab=repositories",
         "className":"fa fa-github"
       },
       {
@@ -55,33 +55,33 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am highly skilled in the following subjects...",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"ESIEE Paris",
+        "degree":"Master",
+        "graduated":"April 2021",
+        "description":"Management Of Technology Information Systems"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Tishreen University",
+        "degree":"Bachelor Bac +4",
+        "graduated":"August 2012",
+        "description":"Information Engineering - Management Information Systems."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Freelancer",
+        "title":"Front-End Web Developer",
+        "years":"March 2015 - Present",
+        "description":"I work with - React.js, JavaScript (ES6), CSS3, HTML5. I am interested and actually learning or will learn about - Node.js, MongoDB, Vue.js."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Eamar Media Group",
+        "title":"COO",
+        "years":"january 2018 - Septemper 2019",
+        "description":"Developing high-quality business strategies and plans ensuring their alignment with short-term and long-term objectives. ... Overseeing all operations and business activities to ensure they produce the desired results and are consistent with the overall strategy."
       }
     ],
     "skills":[
@@ -90,7 +90,7 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"JavaScript",
         "level":"55%"
       },
       {
@@ -106,11 +106,11 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Adobe suite",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"Agile Project Management",
         "level":"80%"
       }
     ]
@@ -118,46 +118,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Reveal-Company-business-website",
+        "category":"A business website using bootstrap and jquery",
+        "image":"11.jpg",
+        "url":"https://abdullahatrash.github.io/Company-business-website/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Photographer Website",
+        "category":"Any photographer needs a website",
+        "image":"22.jpg",
+        "url":"https://abdullahatrash.github.io/photographer-website/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Personal-Blog-website",
+        "category":"Website I built as blog",
+        "image":"3.jpg",
+        "url":"https://abdullahatrash.github.io/Personal-Blog-website/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"My Portfolio Website",
+        "category":"A React based Portfolio website",
+        "image":"4.jpg",
+        "url":"https://abdullahatrash.github.io/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Simple To-Do-List",
+        "category":"(MVP Only) vanila javascript to-do-list.",
+        "image":"5.jpg",
+        "url":"https://abdullahatrash.github.io/To-do-list/."
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Mr. abdullah is a good colleague and a good person to deal and work with, he is quite serious and committed to his job and knows exactly his role and respect others' it is a pleasure to work with Mr.abdallah as he has a positive effect to others.",
+        "user":"Nazeeh Mohammed"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"It was pleasure to work with Abdullah Atrash for over four years ago, I was impressed with his work ethic, friendly personality, and ability to work well under pressure. He is a creative energetic person who has new ideas for constantly developing work and able to solve any problem that might face him at work and even if it took much of his time, he was the management of the Internet unit in the television and he was a brilliant leader of the team. It was a period of development in our section.he was always willing to offer his assistance and had an excellent rapport with the clients, employers, and other professional organization. He is a great asset to any company that he is with.",
+        "user":"Nermen Dashar"
       }
     ]
   }

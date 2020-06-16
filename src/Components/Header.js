@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import Typical from 'react-typical'; 
+import Particles from 'react-particles-js';
+import particles from './particles';
+
 
 class Header extends Component {
   render() {
@@ -6,17 +10,20 @@ class Header extends Component {
     if(this.props.data){
       var name = this.props.data.name;
       var occupation= this.props.data.occupation;
+      var state = this.props.data.state;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+     
       })
     }
 
     return (
+       
       <header id="home">
-
       <nav id="nav-wrap">
+      
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -31,10 +38,29 @@ class Header extends Component {
          </ul>
 
       </nav>
-
+    
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="responsive-headline"> {name}</h1>
+            <h2>Experience in{' '} <Typical
+            steps={[
+               'Project Mgt',
+                1000,
+                'Design Sprints',
+                1000,
+               'Front-End Web dev ...',
+               1000,
+               'TV Engineering',
+               1000,
+               'MCR',
+               1000,
+               'IT Management',
+               1000
+               ]}
+            loop={Infinity}
+            wrapper="b"
+            />
+            </h2>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
             <hr />
             <ul className="social">
@@ -46,6 +72,7 @@ class Header extends Component {
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
+     
 
    </header>
     );
